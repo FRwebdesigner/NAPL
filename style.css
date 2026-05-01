@@ -59,7 +59,7 @@ h2 {
     text-align: center;
 }
 
-/* Estilo para todas las atracciones (lugares y gastronomía) */
+/* Estilo principal para todas las secciones (lugares, platos y restaurantes) */
 .attraction {
     display: flex;
     flex-wrap: wrap;
@@ -105,7 +105,7 @@ h2 {
     border-radius: 4px;
 }
 
-/* Estilo específico para las secciones de "Qué comer" */
+/* Estilo específico para secciones de gastronomía (platos y restaurantes recomendados) */
 .consejo-gastro {
     background: #fff9e6;
     padding: 35px;
@@ -116,7 +116,7 @@ h2 {
     box-shadow: 0 5px 15px rgba(0,0,0,0.08);
 }
 
-/* Ajustes generales */
+/* Ajustes generales de texto */
 .container p {
     font-size: 1.08rem;
 }
